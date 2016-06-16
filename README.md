@@ -17,7 +17,7 @@ css一些通用样式
 .hr{ 
     border: solid 1px #f4f4f4;
 }
-.btn{ // 按钮样式
+.btn{  // 按钮样式
 	  padding: 10px 20px;
     color: #fff;
     border-radius: 3px;
